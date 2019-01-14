@@ -23,7 +23,7 @@ claimName
 cloudinitdisk
 cloudinitnocloud
 cloudInitNoCloud
-cloudinitvolume
+cloudinitdisk
 ClusterIP
 clusternetwork
 ClusterRole
@@ -45,7 +45,7 @@ eGHwAWO
 emptyDir
 emptydisk
 emptyDisk
-emptydiskvolume
+emptydisk
 ENRjg
 ESo
 externalTrafficPolicy
@@ -176,7 +176,7 @@ RDP
 README
 readOnly
 refererence
-registrydisk
+containerdisk
 registryDisk
 RegistryDisk
 RegistryDisks
@@ -184,7 +184,7 @@ containerdisk
 containerDisk
 ContainerDisk
 ContainerDisks
-registryvolume
+containerdisk
 requiredDuringSchedulingIgnoredDuringExecution
 rhel
 rsa
